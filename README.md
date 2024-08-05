@@ -138,4 +138,4 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario, no dudes en contactarme en [tu-email@example.com](mailto:jmb972012@example.com).
+Si tienes alguna pregunta o comentario, no dudes en contactarme en [jmb972012@gmail.com](mailto:jmb972012@example.com).
