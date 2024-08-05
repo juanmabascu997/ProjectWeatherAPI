@@ -32,7 +32,7 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 2. **Instala las dependencias**:
 
     ```bash
-    npm install
+    npm install --legacy-peer-deps
     ```
 
 3. **Configura las variables de entorno**:
