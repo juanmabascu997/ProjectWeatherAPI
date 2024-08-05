@@ -1,0 +1,51 @@
+.nav a{
+  text-decoration: none;
+  color: white;
+}
+
+.nav {
+  background-color: #1b1c1d;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  align-items: center;
+}
+
+.AppBar {
+  display: flex;
+  background-color: #1b1c1d;
+  border: none;
+  box-shadow: none;
+}
+
+#search {
+  margin: 10px 0;
+}
+
+@media (max-width: 960px) {
+  .nav {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .nav > div {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .AppBar {
+    width: 100%;
+    text-align: center;
+  }
+
+  #search {
+    margin: 10px 0;
+  }
+
+  .AppBar span {
+    font-size: 16px;
+  }
+}
+
